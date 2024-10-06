@@ -7,7 +7,7 @@ using Telegram.Bot.Types;
 using Telegram.Bot.Types.Enums;
 using Homework11._6.Controllers;
 
-namespace UtilityBot
+namespace Homework11._6
 {
     internal class Bot : BackgroundService
     {
